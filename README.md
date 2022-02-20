@@ -1,16 +1,4 @@
-# food
-
-A new Flutter application.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Food app for the guessing the spiceness of different items.
+![WhatsApp Image 2022-02-20 at 17 56 03](https://user-images.githubusercontent.com/91696972/154843587-757a5c4a-3b7b-4696-9085-09a6315a9d4f.jpeg)
+![WhatsApp Image 2022-02-20 at 17 56 30](https://user-images.githubusercontent.com/91696972/154843595-e8200a88-7bc6-4f01-911e-7372b149f3e3.jpeg)
+![WhatsApp Image 2022-02-20 at 17 57 37](https://user-images.githubusercontent.com/91696972/154843600-cb744007-6814-43b0-8293-2dcc10acd763.jpeg)
